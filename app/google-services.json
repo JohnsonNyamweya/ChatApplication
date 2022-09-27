@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "28201313197",
+    "project_id": "chatapplication-d71cb",
+    "storage_bucket": "chatapplication-d71cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28201313197:android:d86c7531063c156aec3724",
+        "android_client_info": {
+          "package_name": "com.nyamweyajohnson.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28201313197-iqqhj7d2mnquhc2sh56m2s3bcvbdn9v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVOC-Mkthy-mSjcdxCntpGGPHXMwvYKZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28201313197-iqqhj7d2mnquhc2sh56m2s3bcvbdn9v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
